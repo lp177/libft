@@ -1,0 +1,37 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   main3.z                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: luperez <luperez@student.42.fr>            +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2014/11/05 18:50:35 by luperez           #+#    #+#             */
+/*   Updated: 2014/11/13 05:06:10 by luperez          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#include "libft.h"
+#include <fcntl.h>
+
+int		main(void)
+{
+	//int	i;
+	//char	*b;
+	//char	**c;
+	//char	str1[] = " 	*	r*r	rR***R  	***************************tfjmfgyumtuym*gyu*";
+	//char	str2[] = "rrrRRR";
+	//char 	**tab;
+	//i = 1;
+	//b = (char *)malloc(sizeof(char) * 20);
+	//t_list **lst;
+	
+	//lst = malloc(sizeof(t_list));
+	//*lst = ft_lstnew("try", 3);
+	//ft_lstadd(lst, *lst);
+	//ft_lstmap(*lst, ft_putstr);
+	ft_putstr(NULL);
+	//ft_putchar('\n');
+	//ft_putstr(b);
+	//ft_puttabstr(tab);
+	return (0);
+}
